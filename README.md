@@ -52,7 +52,7 @@ Please follow this video guide:
     ```
 
 4. **Create bot configuration**
-   Create a `data/bot-config.json` file with your bot settings, or use our [Config Generator](https://yourusername.github.io/config-generator)
+   Create a `data/bot-config.json` file with your bot settings, or use our [Config Generator](https://duca-club.github.io/deakin-club-bot/)
 
 5. **Build and start the bot**
     ```bash
@@ -83,7 +83,7 @@ discord-bot-generator/
 
 ### Using the Config Generator
 
-We provide a standalone [Config Generator](https://yourusername.github.io/config-generator) that allows you to:
+We provide a standalone [Config Generator](https://duca-club.github.io/deakin-club-bot/) that allows you to:
 
 - **Customise Bot Settings**: Bot name, colors, branding, messages
 - **Configure Commands**: Customise descriptions and titles for all slash commands
@@ -142,7 +142,7 @@ We do also provide instructions for freely hosting the bot using Deakin's GitLab
 
 ### Bot Configuration
 
-All bot customisation is stored in `data/bot-config.json` and can be managed through our [Config Generator](https://yourusername.github.io/config-generator).
+All bot customisation is stored in `data/bot-config.json` and can be managed through our [Config Generator](https://duca-club.github.io/deakin-club-bot/).
 
 ## 🛠️ Development
 
@@ -160,7 +160,7 @@ All bot customisation is stored in `data/bot-config.json` and can be managed thr
 ### Adding New Features
 
 1. Extend the `BotConfig` interface in `src/utils/botConfig.ts`
-2. Update the [Config Generator](https://yourusername.github.io/config-generator) to include new options
+2. Update the [Config Generator](https://duca-club.github.io/deakin-club-bot/) to include new options
 
 ## 🤝 Contributing
 
